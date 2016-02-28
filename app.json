@@ -1,0 +1,7 @@
+{
+  "name": "Material Design Lite",
+  "description": "Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites.",
+  "repository": "https://github.com/google/material-design-lite",
+  "logo": "http://www.getmdl.io/assets/components.png",
+  "keywords": ["node", "express", "static"]
+}
